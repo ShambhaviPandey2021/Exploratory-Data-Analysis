@@ -1,4 +1,4 @@
-# Data Cleaning Repository
+# Exploratory Data Analysis
 
 ## Description
 This repository contains scripts and notebooks for cleaning and preprocessing data. The goal is to provide reusable code for data preparation tasks.
@@ -19,7 +19,7 @@ The repository is organized as follows:
 To get started, clone this repository and install the required packages:
 
 ```bash
-git clone https://github.com/ShambhaviPandey2021/data-cleaning.git
+git clone https://github.com/ShambhaviPandey2021/Exploratory-Data-Analysis.git
 cd data-cleaning
 pip install -r requirements.txt
  
